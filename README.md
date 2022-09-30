@@ -23,7 +23,7 @@
        
 #   Contribution
 <li>Myself (Aaron Anglin) </li>
-<li>Udemy (Colt Steelers) </li>
+<li>Udemy (Colt Steeles) </li>
 
 #   Questions
 <p>If you have any questions about the repo or to open an issue, you can contact me at:</p> 
