@@ -7,6 +7,8 @@
 #   Description
 <p>Grasping a better understanding of React by building a basic pokemon card game that builds on the concepts of props.</p>
 
+![pokemon](./src/assets/Pokemon.png "pokemon")
+
 #  Table of Contents
 
 *  [Installation](#installation)
